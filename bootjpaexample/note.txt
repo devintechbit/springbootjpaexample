@@ -1,0 +1,18 @@
+
+
+In this example basic CRUD operation performs using JPA..
+
+-> Topics which covered in this example..
+    1. create
+    2. delete
+    3. update
+    4. find / read from table
+
+-> There is also creating some custom method in UserRepository interface
+    and implements those in main application class
+
+-> Adding some basic configuration to connect mysql and show table in SQLYOG..
+
+-> Different types to creates methods like,
+    1. lambda representation
+    2. By creating anonymous class ,etc.
